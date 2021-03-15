@@ -1,2 +1,3 @@
 # Losungen
-BLUDIT - PLUGIN für die Anzeige der Tageslosung im Sidebar
+## BLUDIT - PLUGIN 
+### zur Anzeige der Tageslosung im Sidebar
