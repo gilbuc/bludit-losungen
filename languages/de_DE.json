@@ -1,0 +1,16 @@
+{
+	"plugin-data":
+	{
+		"name": "Losungen",
+		"description": "Zeigt die aktuelle Tageslosung an."
+	},
+	"label" : "Überschrift",
+	"bibel-text-bold" : "Bibeltext fett anzeigen",
+	"bibel-text-link" : "Bibelstelle als Link",
+	"date-format" : "Datumsanzeige",
+	"date-format-0" : "Kein Datum",
+	"date-format-1" : "01.01.2021",
+	"date-format-2" : "Montag, 1. Jänner 2021",
+	"date-format-3" : "1. Jänner 2021",
+	"colon" : "Doppelpunkt nach Titel und Datum"
+}
