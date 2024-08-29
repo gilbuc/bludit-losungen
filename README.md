@@ -16,4 +16,4 @@ Das Plugin wurde mit folgenden Themes getestet:
 * Bluma
 * Styler
 
-Die Losugen werden im Sidebar angezeigt, d.h. das entsprechende Theme muss einen Sidebar anzeigen, damit es funktioniert.
+Die Losungen werden im Sidebar angezeigt, d.h. das entsprechende Theme muss einen Sidebar anzeigen, damit es funktioniert.
