@@ -178,6 +178,8 @@ if ($LphpFp){
 	// Lehrtext ausgeben:
 	$html .= $Lphp[4] . $Lphp[5] . "<br>";
 	$html .= $Lphp[6];
+} else {
+    $html .= "<b>Losungsdatei ()" . $LphpDatei . " nicht gefunden</b>";
 }
 $html .= "<br><br><a style='font-size:small' href='https://www.ebu.de' target='Herrnhuter Brüdergemeine'>© Evangelische Brüder-Unität - Herrnhuter Brüdergemeine</a>";
 $html .= "<br><a style='font-size:small' href='https://www.losungen.de' target='Losungen'>Weitere Informationen finden Sie hier</a>";
