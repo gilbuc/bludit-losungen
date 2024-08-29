@@ -10,3 +10,10 @@ Siehe auch: https://www.losungen.de/die-losungen/
 
 # Hinweis
 Es ist notwendig nach dem Herunterladen der losungenphp.dat-Datei von http://www.combib.de/losungphp/index.html alle '§'-Zeichen durch '~'-Zeichen zu ersetzen.
+
+Das Plugin wurde mit folgenden Themes getestet:
+* Blog X
+* Bluma
+* Styler
+
+Die Losungen werden im Sidebar angezeigt, d.h. das entsprechende Theme muss einen Sidebar anzeigen, damit es funktioniert.
